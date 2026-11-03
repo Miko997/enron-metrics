@@ -1,0 +1,6 @@
+*
+!Dockerfile
+!requirements.txt
+!app.py
+!ingestion.py
+!service.py
